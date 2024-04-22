@@ -1,0 +1,10 @@
+com\Uppi\productservice\Model\Product.class
+com\Uppi\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\Uppi\productservice\Controller\ProductController.class
+com\Uppi\productservice\dto\ProductResponse.class
+com\Uppi\productservice\dto\ProductRequest.class
+com\Uppi\productservice\Service\ProductService.class
+com\Uppi\productservice\Repository\ProductRepository.class
+com\Uppi\productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\Uppi\productservice\Model\Product$ProductBuilder.class
+com\Uppi\productservice\ProductServiceApplication.class

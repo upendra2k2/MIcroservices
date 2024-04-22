@@ -1,0 +1,8 @@
+com\Uppi\orderservice\dto\OrderLineItemsDto.class
+com\Uppi\orderservice\service\OrderService.class
+com\Uppi\orderservice\dto\OrderRequest.class
+com\Uppi\orderservice\repository\OrderRepository.class
+com\Uppi\orderservice\OrderServiceApplication.class
+com\Uppi\orderservice\model\Order.class
+com\Uppi\orderservice\model\orderLineItems.class
+com\Uppi\orderservice\controller\OrderController.class
